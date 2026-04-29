@@ -1,6 +1,7 @@
 # Chapitre 6 : Le Protocole HTTP — Travaux Pratiques
 
-> **Auteur :** Hasna
+> **Auteur :** Hasna Latrach
+> 
 > **Source :** <https://http.daaif.net/tp.html>
 > **Environnement :** Windows (PowerShell / Git Bash)
 
