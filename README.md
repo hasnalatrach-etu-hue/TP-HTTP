@@ -1,4 +1,4 @@
-# TP-HTTP.md
+# TP-HTTP
 
 Rendu des travaux pratiques du **Chapitre 6 : Le Protocole HTTP**.
 
